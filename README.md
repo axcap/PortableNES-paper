@@ -4,7 +4,7 @@
 
 Preview of final product described in the paper:
 
-![preview](/Users/axcap/Downloads/portnes/preview.png)
+![preview](preview.png)
 
 
 
